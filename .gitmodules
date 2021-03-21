@@ -1,3 +1,6 @@
 [submodule "UFOs"]
 	path = UFOs
 	url = https://github.com/kushallsharma/UFOs
+[submodule "BellyButtonBiodiversity"]
+	path = BellyButtonBiodiversity
+	url = https://github.com/kushallsharma/BellyButtonBiodiversity
